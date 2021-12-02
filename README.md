@@ -6,3 +6,4 @@ Aquí se agregan palabras que nos gustan
 3. Chiflón
 4. Cogote
 5. Pírrico
+6. Tertulia
