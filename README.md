@@ -6,4 +6,6 @@ Aquí se agregan palabras que nos gustan
 3. Chiflón
 4. Cogote
 5. Pírrico
-6. Cuclillas
+6. Tertulia
+7. Cuclillas
+
