@@ -8,4 +8,5 @@ Aquí se agregan palabras que nos gustan
 5. Pírrico
 6. Tertulia
 7. Cuclillas
+8. Leguminosa
 
