@@ -10,4 +10,4 @@ Aquí se agregan palabras que nos gustan
 7. Cuclillas
 8. Leguminosa
 9. Cuchufleta
-
+10. Heterocromático
