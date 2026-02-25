@@ -11,3 +11,4 @@ Aquí se agregan palabras que nos gustan
 8. Leguminosa
 9. Cuchufleta
 10. Heterocromático
+11. Guirismiar
